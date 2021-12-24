@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Twitter-Sentiment-Analyzer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_185FA6215EDF462C9047CDED6CDFFF93 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EBBDC3453E6F4CC69ECCDF0D57C6E1ED }}
